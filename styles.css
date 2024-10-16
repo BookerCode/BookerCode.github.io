@@ -227,11 +227,11 @@ footer {
 }
 
 @keyframes changeImage {
-    0% { background-image: url('Images/portfolio/Homepage1.jpg'); }
-    25% { background-image: url('Images/portfolio/Homepage2.jpg'); }
-    50% { background-image: url('Images/portfolio/Homepage3.jpg'); }
-    75% { background-image: url('Images/portfolio/Homepage4.jpg'); }
-    100% { background-image: url('Images/portfolio/Homepage5.jpg'); }
+    0% { background-image: url('Homepage1.jpg'); }
+    25% { background-image: url('Homepage2.jpg'); }
+    50% { background-image: url('Homepage3.jpg'); }
+    75% { background-image: url('Homepage4.jpg'); }
+    100% { background-image: url('Homepage5.jpg'); }
 }
 
 /* Responsive Styling */
